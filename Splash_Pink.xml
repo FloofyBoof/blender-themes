@@ -964,14 +964,14 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#4e4e4e"
+        grid="#424242"
         node_selected="#ef9740"
         node_active="#ffffff"
         wire="#1a1a1aff"
         wire_inner="#8d8d8d"
         wire_select="#ffffffb3"
         selected_text="#7f7f7f"
-        node_backdrop="#303030ff"
+        node_backdrop="#2e2e2eff"
         converter_node="#12adff"
         color_node="#cccc00"
         group_node="#3b660a"
@@ -996,7 +996,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#2e2e2e"
+            back="#262626"
             title="#dfdfdf"
             text="#dfdfdf"
             text_hi="#f2f2f2"
