@@ -2,8 +2,8 @@
   <Theme>
     <user_interface>
       <ThemeUserInterface
-        menu_shadow_fac="0.5"
-        menu_shadow_width="0"
+        menu_shadow_fac="0.4"
+        menu_shadow_width="6"
         icon_alpha="1"
         icon_saturation="1"
         widget_emboss="#00000000"
@@ -213,8 +213,8 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
-            outline="#1a1a1a"
-            inner="#1a1a1aff"
+            outline="#262626"
+            inner="#262626ff"
             inner_sel="#0a93c1ff"
             item="#dfdfdfff"
             text="#dfdfdf"
@@ -258,8 +258,8 @@
         </wcol_tooltip>
         <wcol_menu_item>
           <ThemeWidgetColors
-            outline="#1a1a1a"
-            inner="#1a1a1aff"
+            outline="#262626"
+            inner="#26262600"
             inner_sel="#0a93c1ff"
             item="#dfdfdfff"
             text="#dfdfdf"
