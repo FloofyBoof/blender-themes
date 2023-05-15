@@ -123,8 +123,8 @@
         </wcol_option>
         <wcol_toggle>
           <ThemeWidgetColors
-            outline="#262626"
-            inner="#262626ff"
+            outline="#1a1a1a"
+            inner="#1a1a1aff"
             inner_sel="#0a93c1ff"
             item="#f2f2f2ff"
             text="#dfdfdf"
@@ -1345,7 +1345,7 @@
     </statusbar>
     <spreadsheet>
       <ThemeSpreadsheet
-        row_alternate="#00000007"
+        row_alternate="#00000033"
         >
         <space>
           <ThemeSpaceGeneric
