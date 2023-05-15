@@ -288,8 +288,8 @@
         </wcol_scroll>
         <wcol_progress>
           <ThemeWidgetColors
-            outline="#bebebe"
-            inner="#ffffffff"
+            outline="#1a1a1a"
+            inner="#1a1a1aff"
             inner_sel="#0a93c1ff"
             item="#0a93c1ff"
             text="#dfdfdf"
